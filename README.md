@@ -1,2 +1,2 @@
 # WebsocketServer
-A simply websocket server written using Socket.io
+A simple websocket server written using Socket.io
