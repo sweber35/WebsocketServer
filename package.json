@@ -1,0 +1,28 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "websocket server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sweber35/WebsocketServer.git"
+  },
+  "author": "Sean Weber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sweber35/WebsocketServer/issues"
+  },
+  "homepage": "https://github.com/sweber35/WebsocketServer#readme",
+  "devDependencies": {
+    "typescript": "^2.9.1"
+  },
+  "dependencies": {
+    "@types/node": "^10.3.2",
+    "express": "^4.16.3",
+    "google-cloud": "^0.57.0",
+    "socket.io": "^2.1.1"
+  }
+}
